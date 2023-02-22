@@ -16,6 +16,7 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
         cache: maven
+        
     - name: Setup MySQL
       uses: mirromutth/mysql-action@v1.1
       with:
@@ -27,6 +28,7 @@ jobs:
         mysql database: colorcardonlint
         mysql user: root
         mysql password: root
+        
     - name: Build with Maven
       run: 
           mvn -B package --file pom.xml
