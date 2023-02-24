@@ -1,4 +1,4 @@
-package com.colorcardonline.backend.model;
+package com.colourcardonline.backend.model;
 
 import lombok.*;
 

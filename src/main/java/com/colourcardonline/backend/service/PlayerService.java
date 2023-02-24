@@ -1,7 +1,7 @@
-package com.colorcardonline.backend.service;
+package com.colourcardonline.backend.service;
 
-import com.colorcardonline.backend.model.Credentials;
-import com.colorcardonline.backend.model.Player;
+import com.colourcardonline.backend.model.Credentials;
+import com.colourcardonline.backend.model.Player;
 
 import java.util.List;
 

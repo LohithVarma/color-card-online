@@ -1,6 +1,6 @@
-package com.colorcardonline.backend.repo;
+package com.colourcardonline.backend.repo;
 
-import com.colorcardonline.backend.model.Player;
+import com.colourcardonline.backend.model.Player;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

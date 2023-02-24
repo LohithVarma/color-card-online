@@ -1,8 +1,8 @@
-package com.colorcardonline.backend.controller;
+package com.colourcardonline.backend.controller;
 
-import com.colorcardonline.backend.model.Credentials;
-import com.colorcardonline.backend.model.Player;
-import com.colorcardonline.backend.service.PlayerServiceImpl;
+import com.colourcardonline.backend.model.Credentials;
+import com.colourcardonline.backend.model.Player;
+import com.colourcardonline.backend.service.PlayerServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

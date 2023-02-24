@@ -1,4 +1,4 @@
-package com.colorcardonline.backend.exceptions;
+package com.colourcardonline.backend.exceptions;
 
 public class DataNotFoundException extends RuntimeException{
     public DataNotFoundException(String message) {

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.husprint</groupId>
-	<artifactId>order</artifactId>
+	<artifactId>colour-card-online</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>order</name>
 	<description>Demo project for Spring Boot</description>
@@ -37,8 +37,8 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
