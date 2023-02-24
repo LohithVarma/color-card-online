@@ -1,0 +1,12 @@
+com/colourcardonline/backend/service/PlayerService.class
+com/colourcardonline/backend/model/Credentials.class
+com/colourcardonline/backend/controller/PlayerController.class
+com/colourcardonline/backend/ColorCardOnlineApplication.class
+com/colourcardonline/backend/model/Player.class
+com/colourcardonline/backend/repo/PlayerRepository.class
+com/colourcardonline/backend/exceptions/DataNotFoundException.class
+com/colourcardonline/backend/model/Credentials$CredentialsBuilder.class
+com/colourcardonline/backend/model/Player$PlayerBuilder.class
+com/colourcardonline/backend/exceptions/ErrorResponse.class
+com/colourcardonline/backend/service/PlayerServiceImpl.class
+com/colourcardonline/backend/exceptions/GlobalExceptionHandler.class

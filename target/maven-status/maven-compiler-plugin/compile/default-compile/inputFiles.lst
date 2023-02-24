@@ -1,0 +1,10 @@
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/ColorCardOnlineApplication.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/controller/PlayerController.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/exceptions/GlobalExceptionHandler.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/service/PlayerServiceImpl.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/repo/PlayerRepository.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/exceptions/ErrorResponse.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/exceptions/DataNotFoundException.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/model/Credentials.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/model/Player.java
+/home/llohithvarma/Downloads/Github/color-card-online/src/main/java/com/colourcardonline/backend/service/PlayerService.java
